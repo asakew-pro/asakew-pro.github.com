@@ -16,7 +16,9 @@ https://github.com/mdbootstrap/bootstrap-5-dark-theme/
 **Prepros** - _Compile Everything: Prepros can compile Sass, Less, Stylus, Pug/Jade, Haml, Slim, CoffeeScript and TypeScript out of the box. You can also add your own tools with just a few clicks._
 https://prepros.io/
 
-## Aloqa:
+## Aloqa / Ijtimoiy tarmoq:
 Email: asakew@yandex.ru
 
-Telegram: https://tg.me/asakew
+Telegram: https://t.me/asakew/
+
+YouTube: https://www.youtube.com/channel/UCQKjarUW1QJdCw_MH6yjYcw/
